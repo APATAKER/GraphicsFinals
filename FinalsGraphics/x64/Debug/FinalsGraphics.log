@@ -1,0 +1,8 @@
+﻿  AABBStuff.cpp
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\AABBStuff.cpp(24,29): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  C24BitBMPpixel.cpp
+  cBasicTextureManager.cpp
+  cBigShooter.cpp
+  cCommandGroup.cpp
+  cFlyCamera.cpp
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\AABBStuff.cpp(150,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data

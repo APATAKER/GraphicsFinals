@@ -1,0 +1,59 @@
+﻿  AABBStuff.cpp
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\AABBStuff.cpp(24,29): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  C24BitBMPpixel.cpp
+  cBasicTextureManager.cpp
+  cBigShooter.cpp
+  cCommandGroup.cpp
+  cFlyCamera.cpp
+  cGameObject.cpp
+  cLight.cpp
+  cLightImp.cpp
+  cLowPassFilter.cpp
+  cMeshObject.cpp
+  cModelLoader.cpp
+  cMoveTo_Start_End_Time.cpp
+  cMove_RelativeEnd_Time.cpp
+  cObjectFactory.cpp
+  cPhysics.cpp
+  cPhysics_Ericson.cpp
+  cRotateRelativeOverTime.cpp
+  cScaleRelativeToOverTime.cpp
+  cShader.cpp
+  Compiling...
+  cShaderManager.cpp
+  cShooter.cpp
+  cSphereObject.cpp
+  cTestObject.cpp
+  CTextureFromBMP.cpp
+  cVAOManager.cpp
+  cMediator.cpp
+  cDebugRenderer.cpp
+  cDebugRenderer_BuiltInShapes.cpp
+  CErrorLog.cpp
+  cGLRenderStateHelper.cpp
+  COpenGLError.cpp
+  cLightHelper.cpp
+  PhysicsStuff.cpp
+  sNVPair.cpp
+  theMain.cpp
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\AABBStuff.cpp(150,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(983,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(984,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1417,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1417,36): warning C4244:         with
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1417,36): warning C4244:         [
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1417,36): warning C4244:             T=float
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1417,36): warning C4244:         ]
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1418,38): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1418,38): warning C4244:         with
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1418,38): warning C4244:         [
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1418,38): warning C4244:             T=float
+D:\GDP\projects\finals\graphics\Project\FinalsGraphics\theMain.cpp(1418,38): warning C4244:         ]
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2020 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FinalsGraphics.vcxproj -> D:\GDP\projects\finals\graphics\Project\x64\Release\FinalsGraphics.exe
